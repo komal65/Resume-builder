@@ -17,4 +17,4 @@ So it is necessary to make it to the point and catchy.
 
 
 ![image](https://user-images.githubusercontent.com/86458423/213858248-942b0321-e77b-4fe6-8f7f-ed8b56fc9b8a.png)
-![image](https://user-images.githubusercontent.com/86458423/213858258-31c285a2-9a30-43c5-bd69-9ac844058957.png)
+
