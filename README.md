@@ -2,7 +2,6 @@
 The resume builder built is a web application which allows us to create and edit professional resumes. The user can choose through a variety of colors and styles to customize their resumes.  
 Tech Stack used: Reactjs
 
-
 A resume grabs the attention of employers and recruiters. Sells your strongest skills and accomplishments. Shows how you're a match for a position or project. And most importantly, gets you a job interview!
 So it is necessary to make it to the point and catchy.
 
